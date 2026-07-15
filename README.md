@@ -106,8 +106,9 @@ Full business website with live booking workflow, built end-to-end for a client.
 <img src="https://github-readme-stats.vercel.app/api?username=shreyacode11&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyacode11&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyacode11&layout=compact&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=shreyacode11&theme=flat&no-frame=true&column=4)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyacode11&layout=compact&theme=chartreuse-dark)
+![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=shreyacode11&theme=flat&no-frame=true&column=4)
 
 </div>
 
